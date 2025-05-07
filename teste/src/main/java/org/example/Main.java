@@ -8,11 +8,9 @@ public class Main {
     public static void main(String[] args) {
 
         int bah = 0;
-        for (int i = 10; i <= 50; i += 10) {
-            bah += 5;
-            System.out.println(i);
+        for (int i = 5; i <= 5; i++) {
+            System.out.println("bah");
 
         }
-        System.out.println(bah);
     }
 }
