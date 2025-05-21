@@ -1,0 +1,38 @@
+Index: ../outra_aula_git/tabela_jornada/tabela_jornada.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../outra_aula_git/tabela_jornada/tabela_jornada.iml b/../outra_aula_git/tabela_jornada/tabela_jornada.iml
+new file mode 100644
+--- /dev/null	(date 1747868023113)
++++ b/../outra_aula_git/tabela_jornada/tabela_jornada.iml	(date 1747868023113)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: ../outra_aula_git/seila/seila.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../outra_aula_git/seila/seila.iml b/../outra_aula_git/seila/seila.iml
+new file mode 100644
+--- /dev/null	(date 1747868023109)
++++ b/../outra_aula_git/seila/seila.iml	(date 1747868023109)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="GENERAL_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
